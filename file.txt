@@ -1,0 +1,1 @@
+Huffman coding is a popular lossless Variable Length Coding (VLC) (Section- 2.4. ... In terms of Shannon's noiseless coding theorem, Huffman coding is optimal for a fixed alphabet size, subject to the constraint that that the source symbols are coded one at a time.
